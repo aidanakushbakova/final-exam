@@ -36,7 +36,7 @@ button.addEventListener('click', () => {
 } )
 
 button2.addEventListener('click', () => {
-    customAlert('I study in Compass College in IT & Product design departament. I learn frontend, UX UI, Python, Data Analysis etc.')
+    customAlert('I study in Compass College in IT & Product design departament.')
 })
 
 button3.addEventListener('click', () => {
