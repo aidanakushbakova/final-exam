@@ -1,15 +1,6 @@
-
 const button = document.getElementById('button');
 const button2 = document.getElementById('button-2');
 const button3 = document.getElementById('button-3');
-
-const hobbiesCatalog = [
-  { title: 'Swimming'},
-  { title: 'Cooking'},
-  { title: 'Singing'},
-  { title: 'Hiking'},
-];
-
 const customAlert = (message) => {
     const overlay = document.createElement('div');
     overlay.className = 'overlay';
